@@ -1,5 +1,5 @@
 # 1. What is the book about as a whole?
-Giving an overview of processing data. The book provides history and considerations for a person who wishes to understand what is data, what are the different types of storage and how data can be processed for various purposes.
+The book gives a detailed overview of the ways of processing data. Provides history and considerations for a person who wishes to understand what is data, what are the different types of storage and how data can be processed for various purposes.
 
 The book tries to be useful and provide actionable advice on data design; common pitfalls and the tradeoffs between the design decisions.
 
@@ -7,12 +7,12 @@ The book tries to be useful and provide actionable advice on data design; common
 Data design is a trade-off, depending on what you want to achieve. Here are the main ones:
 
 ## Speed
-A lot of applications make tradeoffs for sake of speed. Consistency is not always as important as speed, especially for real users. 
+A lot of applications make tradeoffs for sake of speed. You can't have true consistency without sacrificing speed so most applications do require some tradeoff here. 
 
 ## Redundancy
 Non-negiotiable when it comes to scaling. Data must be copied across drives. 
 
-## Order
+## Order & Consistency
 There are several ways of ordering:
 
 ### Linearizability
