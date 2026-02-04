@@ -1,10 +1,9 @@
 # 1. What is the book about as a whole?
-The book gives a detailed overview of the ways of processing data. Provides history and considerations for a person who wishes to understand what is data, what are the different types of storage and how data can be processed for various purposes.
-
-The book tries to be useful and provide actionable advice on data design; common pitfalls and the tradeoffs between the design decisions.
+The book is an expository practical work of data considerations when developing software applications. Provides relevant history and development as well as various tradeoffs on data design decisions. The aim is on actionable and practical.
 
 # 2. What is being said in detail, and how?
-Data design is a trade-off, depending on what you want to achieve. Here are the main ones:
+The book provides an overview on the most important data-related technologies such as databases, languages, encoding formats and storage types. Then the book leverages this knowledge to move to developing applications and shows through example practical considerations, race conditions and tradeoffs. 
+
 
 ## Speed
 A lot of applications make tradeoffs for sake of speed. You can't have true consistency without sacrificing speed so most applications do require some tradeoff here. 
