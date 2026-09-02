@@ -1,4 +1,5 @@
 AUTHOR: Andrew Hunt, David Thomas
+DATE: 2025-01-13
 
 # 1. What is the book about as a whole?
 The book provides a philosophy on programming. Gives a framework of thinking about programming as a craft and lists some actionable tips and practical that naturally stem from that philosophy.

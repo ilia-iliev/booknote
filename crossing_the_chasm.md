@@ -1,4 +1,5 @@
 AUTHOR: Geoffrey A. Moore
+DATE: 2026-07-22
 
 # 1. What is the book about as a whole?
 A practical book about growing the market of a technology company. The main premise is that there are 5 segments in the technology adoption life cycle - and each segment has completely different requirements. The book gives tips on how to cross the chasm between key segments.

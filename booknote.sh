@@ -11,6 +11,7 @@ fi
 # Slug: lowercase, non-alphanumerics collapsed into single underscores
 SLUG=$(echo "$TITLE" | tr '[:upper:]' '[:lower:]' | sed -e 's/[^a-z0-9]\+/_/g' -e 's/^_//' -e 's/_$//')
 FILENAME="$SLUG.md"
+TODAY=$(date +%F)
 
 if [ -e "$FILENAME" ]; then
     echo "$FILENAME already exists" >&2
@@ -21,6 +22,7 @@ fi
 cat << EOF > "$FILENAME"
 TITLE: $TITLE
 AUTHOR: $AUTHOR
+DATE: $TODAY
 
 # 1. What is the book about as a whole?
 

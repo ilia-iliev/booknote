@@ -1,4 +1,5 @@
 AUTHOR: George Orwell
+DATE: 2026-03-20
 
 # 1. What is the book about as a whole?
 It's a fiction book that is a metaphor of society and politics. Orwell illustrates through the farm how the established order gets destroyed and re-established as natural progression

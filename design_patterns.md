@@ -1,4 +1,5 @@
 AUTHOR: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+DATE: 2026-04-01
 
 # 1. What is the book about as a whole?
 The book systematizes and describes object-oriented design patterns. A design pattern in that context is an abstracation of how objects relate to each other while balancing reusability of objects and encapsulation of logic. The book provides an overview of the most common such patterns, with sample code and thoughts about tradeoffs and when are they useful.

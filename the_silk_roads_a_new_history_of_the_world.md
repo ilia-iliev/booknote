@@ -1,5 +1,6 @@
 TITLE: The Silk Roads
 AUTHOR: Peter Frankopan
+DATE: 2026-06-27
 
 # 1. What is the book about as a whole?
 It's a historical book that provides context of major global events. There is a focus on the countries of the Middle East.

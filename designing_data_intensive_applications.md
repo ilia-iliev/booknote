@@ -1,4 +1,5 @@
 AUTHOR: Martin Kleppmann
+DATE: 2026-01-05
 
 # 1. What is the book about as a whole?
 The book is an expository practical work of data considerations when developing software applications. Provides relevant history and development as well as various tradeoffs on data design decisions. The aim is on actionable and practical.

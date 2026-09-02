@@ -1,4 +1,5 @@
 AUTHOR: Rob Fitzpatrick
+DATE: 2026-08-30
 
 # 1. What is the book about as a whole?
 

@@ -1,4 +1,5 @@
 AUTHOR: Melissa Perri
+DATE: 2026-06-15
 
 # 1. What is the book about as a whole?
 It's a practical book about product management. Provides a framework of what good product management looks like and gives examples of bad product management.

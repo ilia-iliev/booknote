@@ -1,4 +1,5 @@
 AUTHOR: Henry Ford, Samuel Crowther
+DATE: 2026-01-05
 
 # 1. What is the book about as a whole?
 The autobiography of Henry Ford. He attempts to provide a recollection of his way of starting and growing the business and provides his explanation on success as well as general thoughts.
