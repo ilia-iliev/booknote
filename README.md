@@ -14,4 +14,4 @@ Starting a new note:
 booknote "The Mom Test" "Rob Fitzpatrick"
 ```
 
-The filename comes from the title, and the title and author go in the header of the note, which is what the blog reads.
+The filename comes from the title. The title, author and date go in the header of the note, which is what the blog reads.
