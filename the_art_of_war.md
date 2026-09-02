@@ -1,3 +1,4 @@
+TITLE: The Art of War
 AUTHOR: Sun Tzu
 DATE: 2026-04-21
 

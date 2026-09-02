@@ -1,3 +1,4 @@
+TITLE: Why Nations Fail
 AUTHOR: Daron Acemoglu, James A. Robinson
 DATE: 2026-02-01
 

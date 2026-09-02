@@ -1,3 +1,4 @@
+TITLE: Escaping the Build Trap
 AUTHOR: Melissa Perri
 DATE: 2026-06-15
 

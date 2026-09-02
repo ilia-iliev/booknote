@@ -1,3 +1,4 @@
+TITLE: Crossing the Chasm
 AUTHOR: Geoffrey A. Moore
 DATE: 2026-07-22
 

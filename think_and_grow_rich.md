@@ -1,3 +1,4 @@
+TITLE: Think and Grow Rich
 AUTHOR: Napoleon Hill
 DATE: 2026-05-13
 

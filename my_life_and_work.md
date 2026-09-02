@@ -1,3 +1,4 @@
+TITLE: My Life and Work
 AUTHOR: Henry Ford, Samuel Crowther
 DATE: 2026-01-05
 

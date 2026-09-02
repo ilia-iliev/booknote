@@ -1,3 +1,4 @@
+TITLE: Designing Data-Intensive Applications
 AUTHOR: Martin Kleppmann
 DATE: 2026-01-05
 

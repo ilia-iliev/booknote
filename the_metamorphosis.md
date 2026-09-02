@@ -1,3 +1,4 @@
+TITLE: The Metamorphosis
 AUTHOR: Franz Kafka
 DATE: 2026-05-29
 

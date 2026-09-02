@@ -1,3 +1,4 @@
+TITLE: Animal Farm
 AUTHOR: George Orwell
 DATE: 2026-03-20
 

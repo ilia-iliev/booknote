@@ -1,3 +1,4 @@
+TITLE: The Pragmatic Programmer
 AUTHOR: Andrew Hunt, David Thomas
 DATE: 2025-01-13
 

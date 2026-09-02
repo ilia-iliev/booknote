@@ -1,3 +1,4 @@
+TITLE: Design Patterns
 AUTHOR: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 DATE: 2026-04-01
 

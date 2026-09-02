@@ -1,3 +1,4 @@
+TITLE: How to Read a Book
 AUTHOR: Mortimer J. Adler, Charles Van Doren
 DATE: 2026-02-22
 
