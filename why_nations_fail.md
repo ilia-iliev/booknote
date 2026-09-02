@@ -1,3 +1,5 @@
+AUTHOR: Daron Acemoglu, James A. Robinson
+
 # What is the book about as a whole?
 'Why Nations Fail' dives into history and analyses a lot of nations to provide a theory on economical growth or lack thereof. 
 

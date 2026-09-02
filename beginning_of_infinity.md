@@ -1,3 +1,5 @@
+AUTHOR: David Deutsch
+
 # 1. What is the book about as a whole?
 It's a book on philosophy and physics. The main argument is that humans are universal explainers and universal constructors. In other words, humans have the capacity both to acquire and apply unbounded knowledge. 
 

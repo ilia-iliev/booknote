@@ -1,3 +1,5 @@
+AUTHOR: Mortimer J. Adler, Charles Van Doren
+
 # 1. What is the book about as a whole?
 Practical book with tips and examples on how to read books for understanding
 

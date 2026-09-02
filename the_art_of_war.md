@@ -1,3 +1,5 @@
+AUTHOR: Sun Tzu
+
 # 1. What is the book about as a whole?
 The book is ancient Chinese wisdom that gives practical (albeit somewhat abstract) for war generals. It encompasses aspects such as war strategy, timing, terrains, general role.
 

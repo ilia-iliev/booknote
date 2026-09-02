@@ -1,3 +1,5 @@
+AUTHOR: Ayn Rand
+
 # 1. What is the book about as a whole?
 
 The philosophical idea of objectivism. The book tries to dress the idea into characters and contrast with other ideas popular at the time of reading like socialism. The book argues that a person should be independent and that he should place his ego before all others; the book also expresses contempt towards the idea of collectivism and altruism.

@@ -1,3 +1,6 @@
+TITLE: Steve Jobs
+AUTHOR: Walter Isaacson
+
 # 1. What is the book about as a whole?
 It's an extensive biography of Steve Jobs - mainly about his professional life though personal details are not spared. 
 

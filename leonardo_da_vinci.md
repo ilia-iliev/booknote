@@ -1,3 +1,6 @@
+TITLE: Leonardo Da Vinci
+AUTHOR: Walter Isaacson
+
 # 1. What is the book about as a whole?
 The biography of Leonardo da Vinci - both personal and professional life. By Walter Isaacson
 

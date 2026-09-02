@@ -1,3 +1,5 @@
+AUTHOR: Colin Bryar, Bill Carr
+
 # 1. What is the book about as a whole?
 This is a practical book about the work culture at Amazon. It gives a first-hand experience of the priorities and organizational decisions.
 

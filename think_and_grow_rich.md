@@ -1,3 +1,5 @@
+AUTHOR: Napoleon Hill
+
 An off-comment: I dislike the title. It's a decent self-help book and contains lessons I fully agree with. However, I will pretend it's not about "growing rich" as in money and would instead interpret it as "achieving a life goal".
 
 # 1. What is the book about as a whole?

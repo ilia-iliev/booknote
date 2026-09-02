@@ -1,3 +1,5 @@
+AUTHOR: Franz Kafka
+
 # 1. What is the book about as a whole?
 Metaphorical fiction about a salesman who wakes up one day and finds himself in the body of a huge insect. The story focuses on how he and his family handle this new situation.
 

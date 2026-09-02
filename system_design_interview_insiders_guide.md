@@ -1,3 +1,6 @@
+TITLE: System Design Interview
+AUTHOR: Alex Xu
+
 # 1. What is the book about as a whole?
 It's a practical book about passing a system design interview - with some general tips and many examples of ready designs.
 

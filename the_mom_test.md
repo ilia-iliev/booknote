@@ -1,3 +1,5 @@
+AUTHOR: Rob Fitzpatrick
+
 # 1. What is the book about as a whole?
 
 It's a practical book on talking to business customers. It gives actionable tips and tricks.
