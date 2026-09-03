@@ -1,7 +1,11 @@
 #!/bin/bash
 
-TITLE="$1"
-AUTHOR="$2"
+trim() {
+    echo "$1" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'
+}
+
+TITLE=$(trim "$1")
+AUTHOR=$(trim "$2")
 
 if [ -z "$TITLE" ] || [ -z "$AUTHOR" ]; then
     echo "Usage: booknote \"Book Title\" \"Author Name\"" >&2
@@ -35,3 +39,4 @@ DATE: $TODAY
 EOF
 
 echo "$FILENAME"
+xdg-open "$FILENAME"
