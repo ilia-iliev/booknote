@@ -39,4 +39,4 @@ DATE: $TODAY
 EOF
 
 echo "$FILENAME"
-xdg-open "$FILENAME"
+"${EDITOR:-sensible-editor}" "$FILENAME"
