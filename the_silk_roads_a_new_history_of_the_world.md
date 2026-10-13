@@ -2,10 +2,10 @@ TITLE: The Silk Roads
 AUTHOR: Peter Frankopan
 DATE: 2026-06-27
 
-# 1. What is the book about as a whole?
+## 1. What is the book about as a whole?
 It's a historical book that provides context of major global events. There is a focus on the countries of the Middle East.
 
-# 2. What is being said in detail, and how?
+## 2. What is being said in detail, and how?
 The Silk Road - the trade network going from Asia into Europe - has traditionally been at the forefront of human development. The book uses history to illustrate how the Western-centric view of the world is flawed. 
 
 The book is roughly divided into two sections. Here is a short overview of some themes I noticed:
@@ -37,14 +37,14 @@ The book is roughly divided into two sections. Here is a short overview of some 
 
 With all of that background, the author then makes the case that the balance is shifting eastward once again; that supply chains, rare earth and resources like oil inevitably will reorient the power toward the East, once again.
 
-# 3. Is the book true, in whole or part?
+## 3. Is the book true, in whole or part?
 I think the historical background is sound. It's still Western-centric, though to a lesser degree than other historical books I've read. The auther argues that the Silk Road is at the forefront of the historical events; geopolitics follow the control of resources and trade networks. 
 
 However, the book seems to gloss over important definitions - for example, what exactly is the Silk Road in modernity? I'm not convinced that it's just a geographical region; there is something unspoken. It could be the culture of that region, or the resources of the region, or the sheer number of people that live there - but can't be just the region. So I can't refute the argument of power shifting eastward. There are examples of power resurging, but I'm not convinced those are the full picture.
 
 Also, I found the book a bit light in providing context on entire regions that were very much on the forefront of the development at some point - specifically China and the Ottoman Empire.
 
-# 4. What of it?
+## 4. What of it?
 I did learn a lot of things about the historical context - I remain convinced that Europe experienced a decline relative to Asia in the Middle ages, albeit I don't think this is a novel idea. Here are some things that I learnt:
 
 - Islam formed much later than Christianity. Unlike Christianity and Judaism (slow expansion), Islam exploded across the Arabian peninsula

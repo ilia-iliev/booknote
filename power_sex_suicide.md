@@ -2,11 +2,11 @@ TITLE: Power, Sex, Suicide
 AUTHOR: Nick Lane
 DATE: 2026-09-16
 
-# 1. What is the book about as a whole?
+## 1. What is the book about as a whole?
 
 It's a book on mitochondria. The book goes into the history of the research on the mitochondria and outlines the leading theories on how eukaryotic life came to be and the key role that mitochondria plays in most of it.
 
-# 2. What is being said in detail, and how?
+## 2. What is being said in detail, and how?
 
 Mitochondria are responsible for generation of ATP - fungible energy currency. Mitochondria has:
 
@@ -41,7 +41,7 @@ Here are some more important findings:
 - Birds live longer than they "should" given the power scaling - that's because of their lower FR. Flight requires a lot of power to start, leading to idle mitochondria
 - The key to prolonging life is likely within free radical research, though antioxidants have proven disappointing
 
-# 3. Is the book true, in whole or part?
+## 3. Is the book true, in whole or part?
 
 The book convinced me that mitochondria are very important. Biology seems very complex and the author made it clear when he might be wrong.
 
@@ -49,7 +49,7 @@ I understood the claim about sex in single-celled eukaryotes but I felt like the
 
 It feels like a lot of the book is based on DNA analysis - such as the single origin of eukaryotes. And yet, the book shows that DNA analysis has limits - there is an inherent survivorship bias and we have only a small recent snapshot. However, I agree that it's the most likely explanation given what we know.
 
-# 4. What of it?
+## 4. What of it?
 
 Proton gradients are fundamental to life on Earth. Seems like power is a limiting constraint - our structure, size, sexual reproduction and life expectancy are tied to power scheme that was found by evolution - namely the mitochondria. 
 

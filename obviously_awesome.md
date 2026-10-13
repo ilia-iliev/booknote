@@ -2,11 +2,11 @@ TITLE: Obviously Awesome
 AUTHOR: April Dunford
 DATE: 2026-09-21
 
-# 1. What is the book about as a whole?
+## 1. What is the book about as a whole?
 
 It's a practical book about positioning a product. The book explains the importance of correct positioning and gives a plan that helps with the steps.
 
-# 2. What is being said in detail, and how?
+## 2. What is being said in detail, and how?
 
 Positioning is important as it makes a product easier to understand and, consequentially, easier to buy. A product might fail to sell just because of incorrect positioning - and the author shows various examples.
 
@@ -22,7 +22,7 @@ Here is a 10-step plan on how to position:
 9. Use current trends if applicable
 10. Write the positioning in a single document
 
-# 3. Is the book true, in whole or part?
+## 3. Is the book true, in whole or part?
 
 The book is a guideline on how to position an existing product. The theory and examples work in hindsight with the examples that the author has picked. It comes from practice and is based on experience - it can't be validated scientifically and that's inherent to positioning and the marketing domain. 
 
@@ -30,7 +30,7 @@ I think the definition of "most enthusiastic customers" is handwavy and idealist
 
 I'm also not clear on how to match values to a market, but I guess that's why people learn marketing.  
 
-# 4. What of it?
+## 4. What of it?
 
 I should apply the lessons from this book on the 'read the room' game I'm currently working on. The project clearly struggles with positioning. I should map distinctive features to customer value and then figure out who cares about that value.
 

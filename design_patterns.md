@@ -2,13 +2,13 @@ TITLE: Design Patterns
 AUTHOR: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 DATE: 2026-04-01
 
-# 1. What is the book about as a whole?
+## 1. What is the book about as a whole?
 The book systematizes and describes object-oriented design patterns. A design pattern in that context is an abstracation of how objects relate to each other while balancing reusability of objects and encapsulation of logic. The book provides an overview of the most common such patterns, with sample code and thoughts about tradeoffs and when are they useful.
 
-# 2. What is being said in detail, and how?
+## 2. What is being said in detail, and how?
 Designing a great system does require reusability. It is useful to systematize what OOP typically use - so that terminology is unified and discussion and planning is eased. The book breaks the patterns into three types:
 
-## Creational 
+### Creational 
 Related to creation of new objects
 
 1. Factory - an object that let's the client select what other object to create. i.e. factory.create("dog) or factory.create("cat") 
@@ -17,7 +17,7 @@ Related to creation of new objects
 4. Prototype - provides a way to clone an existing object instead of initializing a new one
 5. Singleton - ensures that the conrete object is built once. Could be lazy.
 
-## Structural
+### Structural
 Related to composing how objects relations
 
 1. Adapter - it "adapts" the interface of A to B. This is especially useful when A is internal and B is external
@@ -28,7 +28,7 @@ Related to composing how objects relations
 6. Flyweight - provides a 'shared' object that can be used in many classes or other objects to save resources
 7. Proxy - it's a class that stands in the way of requests to internal object. This can be useful for load balancing or any request pre-processing.
 
-## Behavioral
+### Behavioral
 Related to objects with typical common 
 
 1. Chain of Responsibility - objects with common interface are 'chained' like A->B->C... There is some common method that either processes the request or forwards it down the chain
@@ -42,11 +42,11 @@ Related to objects with typical common
 9. Template - an implementation of algorithm with chosen dedicated (not all!) methods that can be overridden by sub-strategies
 10. Visitor - encapsulates an algorithm that is typically expected to reference a large number of object. Dedicates algorithm state and custom logic away from class implementation.
 
-# 3. Is the book true, in whole or part?
+## 3. Is the book true, in whole or part?
 I have personally experienced many of the patterns and the book is absolutely true in that regard. It does a great job of systematizing some of the common patterns.
 
 I personally dislike some of the names of the patterns - for example Snapshot is to me a more descriptive name than Memento or Cache vs Flyweight. But the goal of providing a common framework for naming conventions is achieved
 
-# 4. What of it?
+## 4. What of it?
 I should use the naming conventions of the book. What's more, it's a good idea to do refactoring with those patterns in mind. I should experiment with injecting them into code assistant as a skill to do refactoring. Nevertheless, it's useful to refer back to the names and be reminded every once in a while of them every time I move from prototyping to refactoring.
 

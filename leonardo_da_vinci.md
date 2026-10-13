@@ -2,10 +2,10 @@ TITLE: Leonardo Da Vinci
 AUTHOR: Walter Isaacson
 DATE: 2026-06-12
 
-# 1. What is the book about as a whole?
+## 1. What is the book about as a whole?
 The biography of Leonardo da Vinci - both personal and professional life. By Walter Isaacson
 
-# 2. What is being said in detail, and how?
+## 2. What is being said in detail, and how?
 Leonardo da Vinci is the ultimate Renaissance man. He experiments, he moves science forward and he improves the state of the art in several disciplines. The book goes through his whole life and is rather long, so I'm compiling some highlights here:
 
 - the book is written by compiling biographies written by his contemporaries as well as his personal notes - that survive to this day
@@ -26,8 +26,8 @@ Leonardo da Vinci is the ultimate Renaissance man. He experiments, he moves scie
 - He's eccentric - gay, often dressed in pink, a vegetarian
 - Leonardo makes most of his money from organising pageants and occasionally completing a commission
 
-# 3. Is the book true, in whole or part?
+## 3. Is the book true, in whole or part?
 As always with Isaacson, he's doing a fantastic job of compiling a biography from multiple sources. The books appears true, as much as this is possible when writing 500 years after the events.
 
-# 4. What of it?
+## 4. What of it?
 The biggest takeaway is curiosity. Leonardo perfected his art and became that famous for curiosity. He pioneered painting techniques, he experimented with hues and with characters. He dissected people and learnt about how the muscles work from the inside - and he used the findings on paper. He attempted many projects, often failing to produce an output. But it takes curiosity to be regarded as genius - and I should stay more curious and go down rabbit holes more often.

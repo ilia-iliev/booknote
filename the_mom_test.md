@@ -2,11 +2,11 @@ TITLE: The Mom Test
 AUTHOR: Rob Fitzpatrick
 DATE: 2026-08-30
 
-# 1. What is the book about as a whole?
+## 1. What is the book about as a whole?
 
 It's a practical book on talking to business customers. It gives actionable tips and tricks.
 
-# 2. What is being said in detail, and how?
+## 2. What is being said in detail, and how?
 
 Everyone knows that talking to customers is important - this book gives some battle-tested advice on how to have effective conversations.
 
@@ -31,12 +31,12 @@ Here are other tips:
 - take notes during meeting - with emotions, quotes and insights
 - feature requests are a signal that there is an issue, find what it is instead of taking the request at face value
 
-# 3. Is the book true, in whole or part?
+## 3. Is the book true, in whole or part?
 
 Most of the advice seems sound and I can relate to asking questions focused on what I've built, entering pitch mode or defending my product - instead of understanding the customer and their needs. I like the frame that the responsibility is all on the builder. 
 
 I found some of the advice to be a bit American-centric; especially the part about empty flattery - I'm not convinced that this is a universal lesson.
 
-# 4. What of it?
+## 4. What of it?
 
 I still feel intimated by talking to people and the users of what I'm building. This book gave me some practical and sound advice and I should attempt to implement it - by choosing one of my personal projects and finding 5 customers to chat in the next 2 weeks.

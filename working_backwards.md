@@ -2,10 +2,10 @@ TITLE: Working Backwards
 AUTHOR: Colin Bryar, Bill Carr
 DATE: 2026-08-09
 
-# 1. What is the book about as a whole?
+## 1. What is the book about as a whole?
 This is a practical book about the work culture at Amazon. It gives a first-hand experience of the priorities and organizational decisions.
 
-# 2. What is being said in detail, and how?
+## 2. What is being said in detail, and how?
 Amazon is widely successful and manages to innovate beyond online shopping - even after achieving grand scale. That's impressive and rare and people are curious about how it is done. The authors share their experiences from working on many of successful projects at Amazon and working closely with Jeff Bezos.
 
 1. Commitment to the customer
@@ -36,7 +36,7 @@ Amazon has a weekly business metric review - and they focus on the metrics they 
 9. Examples
 The book gives examples of the above practices being implemented - in Kindle, Amazon Prime, Fire Phone, AWS
 
-# 3. Is the book true, in whole or part?
+## 3. Is the book true, in whole or part?
 The difficult question is - how much of that advice generalizes beyond Amazon?
 
 I like the thinking about incentives - for example stock options for employees and bar raisers who have the final say on a candidate even though they will never work with them directly after the decision. Incentivizing the right behavior sounds like a great idea and those are great examples.
@@ -49,5 +49,5 @@ I like the "working backwards" principle - starting from the end product and mov
 
 I wish there were more examples of how the teams were independent - I felt like the integration between teams is very difficult to get correct and the book just kind of brushed over it.
 
-# 4. What of it?
+## 4. What of it?
 I think that the advice is great, though it's not really groundbreaking. I didn't learn a lot of new concepts - mostly it reinforced existing experience and frustrations.. I'm not really in a position to make any of those decisions - however, if I ever find myself in a position where I can make some of those decisions, I would revisit the book.

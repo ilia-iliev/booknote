@@ -2,11 +2,11 @@ TITLE: The Fountainhead
 AUTHOR: Ayn Rand
 DATE: 2026-04-08
 
-# 1. What is the book about as a whole?
+## 1. What is the book about as a whole?
 
 The philosophical idea of objectivism. The book tries to dress the idea into characters and contrast with other ideas popular at the time of reading like socialism. The book argues that a person should be independent and that he should place his ego before all others; the book also expresses contempt towards the idea of collectivism and altruism.
 
-# 2. What is being said in detail, and how?
+## 2. What is being said in detail, and how?
 
 A person should be proud; a person should do whatever he believes is right for his own sake. Society is lead by people who act out of self-interest and society is pulled down by people who act in the interest of the common man; the main contrast is between people driven by ego and people driven by the approval of the others (called second-handers). 
 
@@ -20,13 +20,13 @@ There are several characters that are in contrast to Roark:
 
 In essence, the only way to be happy is to seek gratification from your own self; not from others. Not only that, this is the way society moves forward.
 
-# 3. Is the book true, in whole or part?
+## 3. Is the book true, in whole or part?
 
 I found the book hard to read - the characters, the dialogue, the storyline - everything seemed not-believable. It was intended to teach philosophy but strikes me as so fictional as to have the opposite effect - and it was too long for that.
 
 In the lesson of the book, I find it hard to agree. Ultimately, Roark only becomes successful because he's gratified by others. By select others, a minority of people; not the masses. But still others. So his success stems from others. It would strike me as less odd if the book argued that the ideal is to seek gratification from a select few; not from the masses.  
 
-# 4. What of it?
+## 4. What of it?
 
 I'm glad I read some Ayn Rand so I understand objectivism. I do appreciate the historical context of her and I see why she was popular as the antithesis of communism - another ideology that seems flawed, though for other reasons. 
 

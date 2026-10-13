@@ -2,10 +2,10 @@ TITLE: Crossing the Chasm
 AUTHOR: Geoffrey A. Moore
 DATE: 2026-07-22
 
-# 1. What is the book about as a whole?
+## 1. What is the book about as a whole?
 A practical book about growing the market of a technology company. The main premise is that there are 5 segments in the technology adoption life cycle - and each segment has completely different requirements. The book gives tips on how to cross the chasm between key segments.
 
-# 2. What is being said in detail, and how?
+## 2. What is being said in detail, and how?
 The stages of development are in accordance to the target market:
 
 1. Tech enthusiasists (innovators)
@@ -49,12 +49,12 @@ It's important to choose an appropriate sales channel:
 
 Marketing is choosing a market to sell. The "elevator pitch" is a great test - focus on who the target customer is, what the product solves and where is the competition.
 
-# 3. Is the book true, in whole or part?
+## 3. Is the book true, in whole or part?
 The book provides a sound framework and focuses on crossing the chasm between stages 2 and 3 (visionaries and pragmatists). I immediately identified with the "pragmatists" and fully agree about the points of comparison and honesty - that's similar to the way I think about tech. 
 
 The tip about focusing on a narrow segment and expanding one market at a time sounds reasonable in theory and I can think of examples of companies that have grown that way. 
 
-# 4. What of it?
+## 4. What of it?
 If I ever work in a startup, I will be sure to remember the "chasm". I like the idea of having a mental model of a market - and knowing how to approach the user of a software product. The advice about user scenarios/cards also seems valuable - creating a scenario that solves a concrete problem for a concrete user; juxtaposing it with the existing solution.
 
 Also, the elevator pitch is a great test that I usually fail for all my projects. I should practice it with all the projects I'm currently undertaking.

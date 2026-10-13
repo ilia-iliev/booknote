@@ -2,10 +2,10 @@ TITLE: The Beginning of Infinity
 AUTHOR: David Deutsch
 DATE: 2026-08-12
 
-# 1. What is the book about as a whole?
+## 1. What is the book about as a whole?
 It's a book on philosophy and physics. The main argument is that humans are universal explainers and universal constructors. In other words, humans have the capacity both to acquire and apply unbounded knowledge. 
 
-# 2. What is being said in detail, and how?
+## 2. What is being said in detail, and how?
 The book is roughly divided into the following sections:
 
 1. Theory - there are different ways of marrying theory and experience. Deutsch argues that theories can't be grounded purely on experience as all experience is a conjecture in our minds. A bad (parochial, small-world) theory can explain anything through being varied. A good theory can't be easily varied.
@@ -30,10 +30,10 @@ The book is roughly divided into the following sections:
 
 11. People often make the mistake of observing the current world and making predictions about the future. They extrapolate current trends but can't account for future reativity and discoveries. Such predictions are usually vastly wrong, time and time again - the future moves, and that's the only thing that's certain. We can't predict future knowledge.
 
-# 3. Is the book true, in whole or part?
+## 3. Is the book true, in whole or part?
 People undeniably have the ability to acquire much more knowledge than currently available. New problems will arise and get solved - ad infinitum. Acquiring infinite knowledge is not possible - there is always a new problem arising at each theory. I agree that people are indeed universal explainers and constructors and I agree on the case rejecting the principle of mediocrity and spaceship earth. I must say that I didn't have strong opinions on the philosophy prior to reading the book.
 
-# 4. What of it?
+## 4. What of it?
 I'm impressed by the conjecture that creativity arose from the need to decode memes. This is a genuine new insight for me and has implications in the development of AI. Namely, having the ability to predict the internals of a system that is only observed externally. This shows why next-token prediction is indeed so powerful - and that's a reach the book didn't intend as Deutsch didn't know about LLMs at the time of writing the book. 
 
 I now have a better understanding of the Many Worlds interpretation. It's basically an attempt to explain how come quantum interference disappears and reappears when conducting targeted observations. In short, when detecting the path of a particle (causing decoherence), interference patterns disappear. When shooting a single particle without detecting its path, an interference pattern emerges.
